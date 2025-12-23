@@ -1,16 +1,18 @@
-## Hi there 👋
+## hi, it's lucas! ·v·
 
-<!--
-**soywig/soywig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am a ***computer science student*** in mataró (barcelona, spain). i like to create pretty art and things in general, and happen to like computers too, which is why i like programming!
 
-Here are some ideas to get you started:
+i keep ***shifting personal projects*** as i feel like. i like to learn new stuff and apply it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i don't really have an area i specialize in yet: i developed using the technologies i required for my personal projects, including ***web development*** with html+css+js, and ***mobile development*** with swift and kotlin, among others.
+
+### some things i made:
+* a twitch chat archive and replay tool, [chatrewind](https://github.com/soywig/chatrewind).
+* a music-specialized jellyfin client for ios, jellisten.
+* a quick qr creating website, [qrnocrap](https://qrnocrap.github.io).
+* a draw-chat app on lan, [pctochat](https://github.com/soywig/pctochat).
+
+### more about me / reach me out at:
+* 🌐 [soywig.space](https://soywig.space)
+* 🐥 [@soywig](https://twitter.com/soywig)
+* ✉️ [hello@soywig.space](mailto:hello@soywig.space)
