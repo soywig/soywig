@@ -7,8 +7,8 @@ in my free time, i keep ***shifting personal projects*** based on my mood. i lik
 there's not really an area i specialize in yet. i’ve built things using whatever technologies my personal projects required, including ***web development*** (html, css, js) and ***mobile development*** with swift and kotlin, among others.
 
 ### some things i made:
-* 💬 a twitch chat archive and replay tool, [chatrewind](https://github.com/soywig/chatrewind).
-* 🎧 a music-specialized jellyfin client for iOS, jellisten.
+* 💬 a twitch chat archive and replay tool, [chatrewind](https://github.com/soywig/chatrewind). now (ironically) archived in rework.
+* 🎧 a music-centric jellyfin client for iOS, jellisten.
 * 📱 a quick qr creating website, [qrnocrap](https://qrnocrap.github.io).
 * 🎨 a draw-chat app on lan, [pctochat](https://github.com/soywig/pctochat).
 
