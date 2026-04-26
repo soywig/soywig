@@ -4,7 +4,7 @@ i am a ***computer science student*** in mataró (barcelona, spain). i like vide
 
 in my free time, i keep ***shifting personal projects*** based on my mood. i like learning new stuff and applying it.
 
-there's not really an area i specialize in yet. i’ve built things using whatever technologies my personal projects required, including ***web development*** (html, css, js) and ***mobile development*** with swift and kotlin, among others.
+there's not really an area i specialize in yet. i’ve built things using whatever technologies my personal projects required, including ***web development*** (vanilla and astro) and ***mobile development*** with swift and kotlin, among others.
 
 ### some things i made:
 * 💬 a twitch chat archive and replay tool, [chatrewind](https://github.com/soywig/chatrewind). now (ironically) archived in rework.
