@@ -11,6 +11,7 @@ there's not really an area i specialize in yet. i’ve built things using whatev
 * 🎧 a music-centric jellyfin client for iOS, jellisten.
 * 📱 a quick qr creating website, [qrnocrap](https://qrnocrap.github.io).
 * 🎨 a draw-chat app on lan, [pctochat](https://github.com/soywig/pctochat).
+* 🌎 an i18n integration for astro, [astrolingual](https://github.com/soywig/astrolingual).
 
 ### more about me / reach out to me at:
 * 🌐 [soywig.space](https://soywig.space)
